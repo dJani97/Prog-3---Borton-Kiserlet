@@ -1,1 +1,1 @@
-# Prog-3---Borton-Kiserlet
+# Prog 3 - Börtön Kísérlet
